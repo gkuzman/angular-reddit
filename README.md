@@ -1,4 +1,4 @@
-# AngularReddit
+# AngularReddit - Exercise from NG-Book 2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
